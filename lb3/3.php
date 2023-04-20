@@ -17,7 +17,7 @@ $sqlSelect=$dbh->prepare("SELECT * FROM $db.items WHERE $db.items.price BETWEEN 
 
     echo "<table border ='1'>";
     echo "<tr><th>Name</th><th>Price</th><th>Quantity</th><th>Quality</th></tr>";
-    while($cell=$sqlSelect->fetch(PDO::FETCH_BOTH)){
+    while($cell=$sqlSelect->fetch(PDO::FETCH_NUM)){
         echo "<tr><td>$cell[1]</td><td>$cell[2]</td><td>$cell[3]</td><td>$cell[4]</td></tr>";
     }
     echo "</table>";

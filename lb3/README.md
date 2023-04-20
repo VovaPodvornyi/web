@@ -1,14 +1,14 @@
-# Лабораторна робота_3. <br/> Рудник Іван Олександрович <br/> КІУКІ-19-8 <br/>
+# Лабораторна робота 3. <br/> Подворний Володимир Тарасович <br/> КІУКІ-19-7 <br/>
 # Варіант 1 <br/>
 ## Дамп БД - LB3.sql<br/>
 ## 1) Інтерфейс програми<br/>
-![image](https://user-images.githubusercontent.com/127040659/230479839-8514c1db-b34f-4dd4-b13b-b71e47c46097.png)<br/>
+![image](https://user-images.githubusercontent.com/107669288/233476232-aee6279a-92fd-4579-a9c4-b8bf2e5320dd.png)
 ## 2) Робота першого запросу:<br/>
-![image](https://user-images.githubusercontent.com/127040659/230480339-a1dbe408-3ad4-4940-b102-4901449cea38.png)<br/>
-![image](https://user-images.githubusercontent.com/127040659/230480489-ed6f122d-ba7a-4c94-a785-be1e1332b389.png)<br/>
+![image](https://user-images.githubusercontent.com/107669288/233477069-4477b6c5-483c-49c5-b2f5-f0b01bf366c9.png)
+![image](https://user-images.githubusercontent.com/107669288/233476652-bda52513-803f-4699-ac75-2545ada89117.png)<br/>
 ## 3) Робота другого запросу:<br/>
-![image](https://user-images.githubusercontent.com/127040659/230480640-373ae980-ee46-450c-9b1e-21e36d717ba9.png)<br/>
-![image](https://user-images.githubusercontent.com/127040659/230480787-0f02f9d8-b02a-413e-80d5-573eb569c666.png)<br/>
+![image](https://user-images.githubusercontent.com/107669288/233477142-853a02bf-5036-4f75-82fc-dc3becd91e2c.png)
+![image](https://user-images.githubusercontent.com/107669288/233477198-feed420e-792f-4dc8-ae28-89fd1baf308c.png)<br/>
 ## 4) Робота третього запросу: <br/>
-![image](https://user-images.githubusercontent.com/127040659/230480948-de85e176-f81f-41dd-8977-3f7106886180.png)<br/>
-![image](https://user-images.githubusercontent.com/127040659/230481058-fc9dc003-ebf9-49c5-b33e-2163a3829267.png)<br/>
+![image](https://user-images.githubusercontent.com/107669288/233477336-1a7c97ed-0ff2-4a13-be2a-54667c4a095c.png)<br/>
+![image](https://user-images.githubusercontent.com/107669288/233477391-00214adb-a5af-4b7a-9852-b71147d11d73.png)<br/>
